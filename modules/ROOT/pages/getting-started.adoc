@@ -1,4 +1,4 @@
-:output-html
+:output-html:
 = Getting Started
 
 In this short guide, you will learn how you can quickly install the Siren Federate plugin in Elasticsearch,
